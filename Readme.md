@@ -6,13 +6,19 @@
 
 ## 🧠 About This Project
 
-**Killing Time Games** is a lightweight browser-based app designed to help users pass the time—without losing focus or falling down a digital rabbit hole. Whether you're waiting for your name to be called at a job interview or sitting in a hospital lobby, this is your guilt-free way to stay occupied.
+**Killing Time Games** is a lightweight browser-based app designed for moments when you're stuck waiting—but still want to stay mentally present.
+
+If you're about to walk into a job interview, waiting at the hospital for a loved one, or just in one of life’s many pauses, this app gives you a simple way to pass the time **without taking your head out of the game of life**.
 
 No zombies, no explosions—just quick, silly fun with a personal touch. The app features a pure black theme with enhanced visibility, providing a sleek and easy-on-the-eyes experience.
 
 It includes three familiar games—**Rock Paper Scissors**, **Coin Flip**, and **Odds & Evens**—each with unique game modes. You can play the classic versions, enjoy themed “Fun” matchups (like *The Rock vs. Toilet Paper*), or invent your own characters and rules.
 
 This isn’t about leveling up or beating a final boss—it’s a pocket-sized distraction built for real-world lulls, not digital war zones.
+
+> **It’s not about wasting time. It’s about killing time—calmly, cleanly, and on your terms.**
+
+🔗 **Live App:** [https://willco8.github.io/killing-time-games/](https://willco8.github.io/killing-time-games/)
 
 ---
 
@@ -66,8 +72,7 @@ Each game includes multiple play modes and persistent local tracking features.
 
 ## 🚀 How to Access & Play
 
-👉 **Live App:**  
-https://willco8.github.io/killing-time-games/
+🔗 **Live App:** [https://willco8.github.io/killing-time-games/](https://willco8.github.io/killing-time-games/)
 
 ### 🕹️ Instructions:
 1. Open the app in your browser.
@@ -80,7 +85,8 @@ https://willco8.github.io/killing-time-games/
 
 ## 🤖 Built with AI Assistance
 
-AI played a central role in shaping this project—from generating the core codebase to debugging logic and even suggesting creative mode ideas. It allowed me to build faster, iterate smarter, and focus on user experience.
+AI played a central role in shaping this project—from generating the core codebase to debugging logic and even suggesting creative mode ideas.  
+It allowed me to build faster, iterate smarter, and focus on user experience.
 
 ---
 
@@ -93,5 +99,6 @@ AI played a central role in shaping this project—from generating the core code
 
 ---
 
-## 👨‍💻 Part of My AI Native Journey  
+## 👨‍💻 Part of My AI Native Journey
+
 This project was developed as part of a hands-on coding program that emphasized real-time, interactive, browser-based apps created with AI collaboration.
