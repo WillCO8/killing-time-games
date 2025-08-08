@@ -18,7 +18,7 @@ This isn’t about leveling up or beating a final boss—it’s a pocket-sized d
 
 > **It’s not about wasting time. It’s about killing time—calmly, cleanly, and on your terms.**
 
-🔗 **Live App:** [https://willco8.github.io/killing-time-games/](https://willco8.github.io/killing-time-games/)
+🔗 **Live App:** [https://williamchonOrtega.github.io/killing-time-games/](https://williamchonortega.github.io/killing-time-games/)
 
 ---
 
@@ -72,7 +72,7 @@ Each game includes multiple play modes and persistent local tracking features.
 
 ## 🚀 How to Access & Play
 
-🔗 **Live App:** [https://willco8.github.io/killing-time-games/](https://willco8.github.io/killing-time-games/)
+🔗 **Live App:** [https://williamchonortega.github.io/killing-time-games/](https://williamchonortega.github.io/killing-time-games/)
 
 ### 🕹️ Instructions:
 1. Open the app in your browser.
